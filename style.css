@@ -1,0 +1,17 @@
+body {
+  background-color: #d7a49a;
+}
+
+button {
+  background-color: #ffffff;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 15px 32px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #a4b1b4;
+}
+
+/*  TI404{1ncluD35_1of2_  */
